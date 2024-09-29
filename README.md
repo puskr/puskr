@@ -1,17 +1,19 @@
-# 👋 Hi there, I'm Puskar Rai!
+# Hi there, I'm Puskar Rai!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puskr&label=Profile%20views&color=0e75b6&style=flat" alt="puskr" /> </p>
 
 <img align= "right" alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
 
-## 🌟 About Me
-Aspiring Data Analyst, Self-taught through YouTube tutorials and
-online courses, eager to apply newly acquired skills in data manipulation, visualization, and
+##  About Me
+Aspiring Data Analyst, self-taught through YouTube tutorials and
+online courses.
+
+I am eager to apply newly acquired skills in data manipulation, visualization, and
 statistical analysis to real-world challenges.
 
 ---
 
-- 🌱 I’m currently learning **Python** and enhancing my skills in **data visualization** and **machine learning**.
+- 🌱 I’m currently learning **Python** .
 - 💡 I enjoy exploring **data storytelling** and **business intelligence** to create impactful insights.
 - 📈 My goal is to leverage data to help organizations make informed decisions and improve performance.
 - 📫 How to reach me: [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
@@ -39,5 +41,5 @@ statistical analysis to real-world challenges.
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puskr&show_icons=true&locale=en&layout=compact" alt="puskr" />
 </p>
 
-## 🌐 Connect with Me
+##  Connect with Me
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/puskarrai/) <!-- LinkedIn icon -->
