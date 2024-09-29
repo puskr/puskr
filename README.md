@@ -7,7 +7,9 @@
 ![Banner](https://your-banner-image-url) <!-- Replace with your animated banner image link -->
 
 ## 🌟 About Me
-A passionate Data Analyst who loves transforming raw data into insightful stories. My journey in data analysis is fueled by curiosity and a commitment to uncovering patterns that drive decision-making.
+Aspiring Data Analyst, Self-taught through YouTube tutorials and
+online courses, eager to apply newly acquired skills in data manipulation, visualization, and
+statistical analysis to real-world challenges.
 
 ---
 
