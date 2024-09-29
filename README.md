@@ -4,8 +4,6 @@
 
 <img align= "right" alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
 
-![Banner](https://your-banner-image-url) <!-- Replace with your animated banner image link -->
-
 ## 🌟 About Me
 Aspiring Data Analyst, Self-taught through YouTube tutorials and
 online courses, eager to apply newly acquired skills in data manipulation, visualization, and
