@@ -15,8 +15,8 @@
 
 <p align="center">
     <span>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-            <img src="https://camo.githubusercontent.com/7ba43f59fdf57edcb3e113d36acd39fba51745c346bda290fc0f4e3429fa1af1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" alt="MySQL Badge" />
+        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" />
         </a>
     </span>
     <span>
@@ -25,9 +25,17 @@
         </a>
     </span>
     <span>
-        <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://camo.githubusercontent.com/7ba43f59fdf57edcb3e113d36acd39fba51745c346bda290fc0f4e3429fa1af1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" alt="MySQL Badge" />
+        </a>
+    </span>
+    <span>
+        <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
+        </a>
     </span>
 </p>
+
 
 
 
