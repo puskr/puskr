@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
 
 ##  About Me
-Aspiring Data Analyst, self-taught through YouTube tutorials and online courses. I am eager to apply newly acquired skills in data manipulation, visualization, and statistical analysis to real-world challenges.
+Aspiring Data Analyst, self-taught through YouTube tutorials and online courses.
 
 ---
 
@@ -52,30 +52,31 @@ Aspiring Data Analyst, self-taught through YouTube tutorials and online courses.
         <img src="https://github.com/puskr/netflix_project/blob/main/Netflix_2015_logo.svg.png" alt="Project netflix" width="400" height="150" />
     </a>
 </p>
-Description: The "Netflix_project" is a YouTube tutorial demonstrating how to analyze and manipulate Netflix data using PostgreSQL. I have answered 15 questions based It covers various SQL concepts and techniques, helping viewers understand how to query and work with data effectively within a PostgreSQL environment. The project provides practical examples and insights into database management and analysis.
-- **Tech Stack:** List the technologies used (e.g., Python, SQL, Power BI).
+**Description:** The "Netflix_project" is a YouTube tutorial demonstrating how to analyze and manipulate Netflix data using PostgreSQL. I have answered 15 questions.
+It covers various SQL concepts and techniques, helping viewers understand how to query and work with data effectively within a PostgreSQL environment. The project provides practical examples and insights into database management and analysis.
+
+**Tech Stack:** SQL
 
 ---
 
-### Project Title 2
+[5 Dashboards](https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/tree/main)
 <p>
-    <a href="https://github.com/your-username/project-repo2" target="_blank">
-        <img src="https://path-to-your-image2.png" alt="Project 2" width="200" height="150" />
-    </a>
+   
 </p>
-- **Description:** A brief description of what this project does and its purpose.
-- **Tech Stack:** List the technologies used (e.g., Python, SQL, Power BI).
+**Description:** This project showcases 5 interactive dashboards created using Power BI as part of my Data Analytics assessment for the 3rd semester of my MBIS program. 
+The dashboards highlight key insights and visualizations derived from data analysis, demonstrating my analytical skills and understanding of data-driven decision-making
+
+**Tech Stack:** Power BI
 
 ---
 
-### Project Title 3
+[Coffee Sales Project ](https://github.com/puskr/Coffee-Sales-Project)
 <p>
-    <a href="https://github.com/your-username/project-repo3" target="_blank">
-        <img src="https://path-to-your-image3.png" alt="Project 3" width="200" height="150" />
-    </a>
+   
 </p>
-- **Description:** A brief description of what this project does and its purpose.
-- **Tech Stack:** List the technologies used (e.g., Python, SQL, Power BI).
+**Description:** In this project, I analyze coffee sales data to uncover trends and insights that drive business decisions. 
+
+**Tech Stack:** Power BI, SQL
 
 ##  Connect with Me
 <p align="center">
