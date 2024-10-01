@@ -4,21 +4,20 @@
     <img src="https://komarev.com/ghpvc/?username=puskr&label=Profile%20views&color=0e75b6&style=flat" alt="puskr" />
 </p>
 
-<p align="right">
-    <img alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
-</p>
+<img align="right" alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
 
-<p align="center">
-    
 **Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
-</p>
+
+
 
 ---
 
 - 💻 I’m currently learning **Python**.
 - 📫 Mail me at [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
 
-## Languages and Tools
+---
+
+##  Languages and Tools
 <div>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -44,7 +43,6 @@
 </p>
 
 ---
-
 ## 📂 Projects
 
 ### [Netflix Project](https://github.com/puskr/netflix_project)
@@ -58,6 +56,7 @@
 The "Netflix Project" is a YouTube tutorial demonstrating how to analyze and manipulate Netflix data using PostgreSQL. I answered 15 questions, covering various SQL concepts and techniques to help viewers effectively query and work with data in a PostgreSQL environment. The project provides practical examples and insights into database management and analysis.
 
 **Technologies Used:** SQL
+
 
 ---
 
