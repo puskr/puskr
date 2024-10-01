@@ -1,4 +1,4 @@
-#  Hi, I'm Puskar Rai!
+# Hi, I'm Puskar Rai!
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=puskr&label=Profile%20views&color=0e75b6&style=flat" alt="puskr" />
@@ -6,8 +6,10 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
 
-##  About Me
-Aspiring Data Analyst, self-taught through YouTube tutorials and online courses.
+<p align="center">
+    **Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
+</p>
+
 
 ---
 
