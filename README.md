@@ -46,41 +46,46 @@ Aspiring Data Analyst, self-taught through YouTube tutorials and online courses.
 ---
 ## 📂 Projects
 
-[Netflix Project](https://github.com/puskr/netflix_project)
-<p>
-    <a href="https://github.com/puskr/netflix_project target="_blank">
-        <img src="https://github.com/puskr/netflix_project/blob/main/Netflix_2015_logo.svg.png" alt="Project netflix" width="400" height="150" />
+### [Netflix Project](https://github.com/puskr/netflix_project)
+<p align="center">
+    <a href="https://github.com/puskr/netflix_project" target="_blank">
+        <img src="https://github.com/puskr/netflix_project/blob/main/Netflix_2015_logo.svg.png" alt="Netflix Project" width="400" height="150" />
     </a>
 </p>
-**Description:** The "Netflix_project" is a YouTube tutorial demonstrating how to analyze and manipulate Netflix data using PostgreSQL. I have answered 15 questions.
-It covers various SQL concepts and techniques, helping viewers understand how to query and work with data effectively within a PostgreSQL environment. The project provides practical examples and insights into database management and analysis.
+**Description:**  
+The "Netflix Project" is a YouTube tutorial demonstrating how to analyze and manipulate Netflix data using PostgreSQL. I answered 15 questions, covering various SQL concepts and techniques to help viewers effectively query and work with data in a PostgreSQL environment. The project provides practical examples and insights into database management and analysis.
 
 **Tech Stack:** SQL
 
 ---
 
-[5 Dashboards](https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/tree/main)
-<p>
-   
+### [5 Dashboards](https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/tree/main)
+<p align="center">
+    <img src="https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/blob/main/CUSTOMER%20DASHBOARD.png" alt="5 Dashboards" width="400" height="200" />
 </p>
-**Description:** This project showcases 5 interactive dashboards created using Power BI as part of my Data Analytics assessment for the 3rd semester of my MBIS program. 
-The dashboards highlight key insights and visualizations derived from data analysis, demonstrating my analytical skills and understanding of data-driven decision-making
+**Description:**  
+This project showcases five interactive dashboards created using Power BI as part of my Data Analytics assessment for the 3rd semester of my MBIS program. The dashboards highlight key insights and visualizations derived from data analysis, demonstrating my analytical skills and understanding of data-driven decision-making.
 
 **Tech Stack:** Power BI
 
 ---
 
-[Coffee Sales Project ](https://github.com/puskr/Coffee-Sales-Project)
-<p>
-   
+### [Coffee Sales Project](https://github.com/puskr/Coffee-Sales-Project)
+<p align="center">
+    <img src="https://github.com/puskr/Coffee-Sales-Project/blob/main/coffee-background-coffee-beans-pause-preview.jpg" alt="Coffee Sales Project" width="400" height="200" />
 </p>
-**Description:** In this project, I analyze coffee sales data to uncover trends and insights that drive business decisions. 
+**Description:**  
+In this project, I analyze coffee sales data to uncover trends and insights that drive business decisions.
 
 **Tech Stack:** Power BI, SQL
 
-##  Connect with Me
+---
+
+## 🤝 Connect with Me
 <p align="center">
     <a href="https://www.linkedin.com/in/puskarrai/">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
     </a>
 </p>
+
+
