@@ -13,20 +13,28 @@
 - 📫 Mail me at [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
 
 <p align="center">
-    
+
+
 ## Languages and Tools
+
+<p align="center">
+    <span>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+            <img src="https://camo.githubusercontent.com/7ba43f59fdf57edcb3e113d36acd39fba51745c346bda290fc0f4e3429fa1af1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d2532333332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e" alt="MySQL Badge" />
+        </a>
+    </span>
+    <span>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+            <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL Badge" />
+        </a>
+    </span>
+    <span>
+        <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge" />
+    </span>
 </p>
-<div align="center">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a>
-    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" height="40" />
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" />
-    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" />
-</div>
+
+
+
 
 
 ## 📊 My GitHub Stats
