@@ -6,9 +6,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
 
-<p align="center">
-    **Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
-</p>
+**Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
+
 
 
 ---
