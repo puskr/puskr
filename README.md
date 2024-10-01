@@ -18,7 +18,7 @@ Aspiring Data Analyst, self-taught through YouTube tutorials and online courses.
 
 ---
 
-## 💻 Languages and Tools
+##  Languages and Tools
 <div>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -81,7 +81,7 @@ In this project, I analyze coffee sales data to uncover trends and insights that
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 <p align="center">
     <a href="https://www.linkedin.com/in/puskarrai/">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
