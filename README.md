@@ -12,10 +12,8 @@
 
 ---
 
-- 🌱 I’m currently learning **Python**.
-- 💡 I enjoy exploring **data storytelling** and **business intelligence** to create impactful insights.
-- 📈 My goal is to leverage data to help organizations make informed decisions and improve performance.
-- 📫 How to reach me: [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
+- 💻 I’m currently learning **Python**.
+- 📫 Mail me at [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
 
 ---
 
@@ -53,10 +51,12 @@
         <img src="https://github.com/puskr/netflix_project/blob/main/Netflix_2015_logo.svg.png" alt="Netflix Project" width="400" height="150" />
     </a>
 </p>
+
 **Description:**  
 The "Netflix Project" is a YouTube tutorial demonstrating how to analyze and manipulate Netflix data using PostgreSQL. I answered 15 questions, covering various SQL concepts and techniques to help viewers effectively query and work with data in a PostgreSQL environment. The project provides practical examples and insights into database management and analysis.
 
-**Tech Stack:** SQL
+**Technologies Used:** SQL
+
 
 ---
 
@@ -64,10 +64,11 @@ The "Netflix Project" is a YouTube tutorial demonstrating how to analyze and man
 <p align="center">
     <img src="https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/blob/main/CUSTOMER%20DASHBOARD.png" alt="5 Dashboards" width="400" height="200" />
 </p>
+
 **Description:**  
 This project showcases five interactive dashboards created using Power BI as part of my Data Analytics assessment for the 3rd semester of my MBIS program. The dashboards highlight key insights and visualizations derived from data analysis, demonstrating my analytical skills and understanding of data-driven decision-making.
 
-**Tech Stack:** Power BI
+**Technologies Used:** Power BI
 
 ---
 
@@ -75,10 +76,11 @@ This project showcases five interactive dashboards created using Power BI as par
 <p align="center">
     <img src="https://github.com/puskr/Coffee-Sales-Project/blob/main/coffee-background-coffee-beans-pause-preview.jpg" alt="Coffee Sales Project" width="400" height="200" />
 </p>
+
 **Description:**  
 In this project, I analyze coffee sales data to uncover trends and insights that drive business decisions.
 
-**Tech Stack:** Power BI, SQL
+**Technologies Used:** Power BI, SQL
 
 ---
 
