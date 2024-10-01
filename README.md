@@ -1,21 +1,22 @@
+<p align="center">
+
 # Hi, I'm Puskar Rai!
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=puskr&label=Profile%20views&color=0e75b6&style=flat" alt="puskr" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/puskr/puskr/blob/main/puskarr.gif">
 
 **Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
-
 
 - 💻 I’m currently learning **Python**.
 - 📫 Mail me at [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
 
-
-
-##  Languages and Tools
-<div>
+<p align="center">
+    
+## Languages and Tools
+</p>
+<div align="center">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
@@ -26,7 +27,6 @@
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40" />
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" />
 </div>
-
 
 
 ## 📊 My GitHub Stats
@@ -53,8 +53,6 @@ The "Netflix Project" is a YouTube tutorial demonstrating how to analyze and man
 
 **Technologies Used:** SQL
 
-
-
 ### [5 Dashboards](https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/tree/main)
 <p align="center">
     <img src="https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/blob/main/CUSTOMER%20DASHBOARD.png" alt="5 Dashboards" width="400" height="200" />
@@ -65,8 +63,6 @@ This project showcases five interactive dashboards created using Power BI as par
 
 **Technologies Used:** Power BI
 
-
-
 ### [Coffee Sales Project](https://github.com/puskr/Coffee-Sales-Project)
 <p align="center">
     <img src="https://github.com/puskr/Coffee-Sales-Project/blob/main/coffee-background-coffee-beans-pause-preview.jpg" alt="Coffee Sales Project" width="400" height="200" />
@@ -76,7 +72,6 @@ This project showcases five interactive dashboards created using Power BI as par
 In this project, I analyze coffee sales data to uncover trends and insights that drive business decisions.
 
 **Technologies Used:** Power BI, SQL
-
 
 ## Connect with Me
 <p align="center">
