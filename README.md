@@ -9,13 +9,10 @@
 **Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
 
 
-
----
-
 - 💻 I’m currently learning **Python**.
 - 📫 Mail me at [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
 
----
+
 
 ##  Languages and Tools
 <div>
@@ -30,7 +27,7 @@
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" />
 </div>
 
----
+
 
 ## 📊 My GitHub Stats
 <p align="center">
@@ -42,7 +39,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puskr&show_icons=true&locale=en&layout=compact" alt="puskr" />
 </p>
 
----
 ## 📂 Projects
 
 ### [Netflix Project](https://github.com/puskr/netflix_project)
@@ -58,7 +54,6 @@ The "Netflix Project" is a YouTube tutorial demonstrating how to analyze and man
 **Technologies Used:** SQL
 
 
----
 
 ### [5 Dashboards](https://github.com/puskr/Data-Analytics-Assessment-3rd-Sem/tree/main)
 <p align="center">
@@ -70,7 +65,7 @@ This project showcases five interactive dashboards created using Power BI as par
 
 **Technologies Used:** Power BI
 
----
+
 
 ### [Coffee Sales Project](https://github.com/puskr/Coffee-Sales-Project)
 <p align="center">
@@ -82,7 +77,6 @@ In this project, I analyze coffee sales data to uncover trends and insights that
 
 **Technologies Used:** Power BI, SQL
 
----
 
 ## Connect with Me
 <p align="center">
