@@ -73,9 +73,4 @@ In this project, I analyze coffee sales data to uncover trends and insights that
 
 **Technologies Used:** Power BI, SQL
 
-## Connect with Me
-<p align="center">
-    <a href="https://www.linkedin.com/in/puskarrai/">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
-    </a>
-</p>
+
