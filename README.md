@@ -6,7 +6,6 @@
 **Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
 
 - 💻 I’m currently learning **Python**.
-- 📫 Mail me at [mepuskr@gmail.com](mailto:mepuskr@gmail.com)
 
 <p align="center">
 
