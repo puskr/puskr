@@ -1,6 +1,4 @@
-<p align="center">
 
-# Hi, I'm Puskar Rai!
 
 
 **Aspiring Data Analyst, self-taught through online courses and YouTube tutorials.**
